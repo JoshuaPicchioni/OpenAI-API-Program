@@ -11,9 +11,9 @@ First, you must have an OpenAI API key to run and use this program. Specifically
 
 Then after, navigate to the directory where you have it stored and run:
 
-`python GPTAPIPROGRAM.py`
+`python GPTAPIProgram.py`
 or
-`python3 GPTAPIPROGRAM.py`
+`python3 GPTAPIProgram.py`
 
 # CAPABILITIES
 -  Interface with the text-based models from OpenAI. By default, the model that will be interfaced with is GPT-3.5 however it can easily be changed in the code if desired.
